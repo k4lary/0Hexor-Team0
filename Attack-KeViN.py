@@ -64,7 +64,7 @@ def buildblock(size):
 
  
 def usage():
-    print '------------------Hexor Team---------------------+'
+    print '------------------qamar---------------------+'
     print ' 7ama-Pava-KeViN'
     print 'bam shewea python2 Attack-KeViN.py https://lenke saetaka.com'
     
