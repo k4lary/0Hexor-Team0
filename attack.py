@@ -2,7 +2,7 @@
 # Python bytecode 2.7 (62211)
 # Decompiled from: Python 2.7.17 (default, Dec  5 2019, 10:45:36) 
 # [GCC 4.2.1 Compatible Android (5220042 based on r346389c) Clang 8.0.7 (https://
-# Embedded file name: /sdcard/Download/staferor-404.py
+# Embedded file name: /sdcard/Download/hexor-team.py
 # Compiled at: 2021-03-26 11:13:48
 import urllib2, sys, threading, random, re
 url = ''
@@ -65,14 +65,7 @@ def buildblock(size):
  
 def usage():
    
-print('''
 
-░█████╗░░██████╗░██████╗░███████╗███╗░░██╗
-██╔══██╗██╔════╝░██╔══██╗██╔════╝████╗░██║
-███████║██║░░██╗░██████╔╝█████╗░░██╔██╗██║
-██╔══██║██║░░╚██╗██╔══██╗██╔══╝░░██║╚████║
-██║░░██║╚██████╔╝██║░░██║███████╗██║░╚███║
-╚═╝░░╚═╝░╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝''')
     
     
     
