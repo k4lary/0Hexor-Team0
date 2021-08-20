@@ -70,7 +70,7 @@ def usage():
     
     
     
-    print ' TEAM AGREN'
+    print ' TEAM HEXOR
     print 'bam shewea python2 Attack-KeViN.py https://lenke saetaka.com'
     
 
@@ -95,7 +95,7 @@ def httpcall(url):
         urllib2.urlopen(request)
     except urllib2.HTTPError as e:
         set_flag(1)
-        print '\x1b[1;91mTEAM-AGREN = start attack '
+        print '\x1b[1;91mTEAM-Hexor = start attack '
         code = 500
     except urllib2.URLError as e:
         sys.exit()
@@ -139,7 +139,8 @@ elif sys.argv[1] == 'help':
     usage()
     sys.exit()
 else:
-    print '\x1b[1;91m TEAM Agren'
+    print '\x1b[1;91m Team HEXOR' 
+ '
     print '-- \x1b[1;92mAttack dasy py krd --'
     if len(sys.argv) == 3:
         if sys.argv[2] == 'safe':
